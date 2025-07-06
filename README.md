@@ -40,7 +40,7 @@
 
 ### 📫 How to Reach Me
 
-- 💬 [Discord: `kg_devil`](#)
+- 💬 [Discord: `kg_devil`](https://discord.com/users/621296906357964810)
 - 🌍 [Coming soon: Portfolio website!]
 
 ---
