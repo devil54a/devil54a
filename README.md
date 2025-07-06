@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 Projects You Should See
+### 🚀 Projects I Worked On
 
 - 🔫 **DominosBot**: Feature-rich Discord bot for moderation, logging, points, and more.
 - 🎯 **Desert Eagles(Roblox)**: Realistic FPS + training + shooting range + XP roles.
