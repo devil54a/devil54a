@@ -1,6 +1,6 @@
 # 🚀 Youssef · Full-Stack Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-youssef.dev-6C63FF?style=flat-square)](https://youssefdev.online)
+[![Portfolio](https://img.shields.io/badge/Portfolio-youssefdev.online-6C63FF?style=flat-square)](https://youssefdev.online)
 [![Discord](https://img.shields.io/badge/Discord-kg_devil-5865F2?style=flat-square&logo=discord)](https://discord.com/users/621296906357964810)
 [![GitHub](https://img.shields.io/badge/GitHub-devil54a-181717?style=flat-square&logo=github)](https://github.com/devil54a)
 [![YouTube](https://img.shields.io/badge/YouTube-kg__devil-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@kg_devil)
