@@ -54,33 +54,6 @@
 - Focus on clean UX and performance
 - Tech: HTML/CSS, JavaScript, EJS
 
-## 🏆 Featured Projects
-
-### **DominosBot** 🎯
-> All-in-one Discord bot — my flagship project still growing
-- **15K+** active guilds
-- **5M+** users reached
-- 30+ games, 20+ customization commands
-- Full-featured dashboard with analytics and settings
-
-### **DominosBot Dashboard** 📊
-> Admin panel with real-time analytics and controls
-- 3 versions released
-- Full settings management
-- Audit logs and monitoring
-
-### **Roblox Game Systems** 🎮
-> Vehicles, FPS mechanics, Discord integration
-- Custom game systems
-- Interactive GUI design
-- Full game development
-
-### **Automation Tools** 🤖
-> Web scraping and browser automation pipelines
-- Data collection systems
-- Automated workflows
-- Integration with various APIs
-
 ## 💼 Services
 
 - **Custom Discord Bots** — Built to spec, built to last
