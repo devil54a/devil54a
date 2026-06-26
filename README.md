@@ -1,6 +1,6 @@
 # 🚀 Youssef · Full-Stack Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-youssef.dev-6C63FF?style=flat-square)](https://youssef.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-youssef.dev-6C63FF?style=flat-square)](https://youssefdev.online)
 [![Discord](https://img.shields.io/badge/Discord-kg_devil-5865F2?style=flat-square&logo=discord)](https://discord.com/users/621296906357964810)
 [![GitHub](https://img.shields.io/badge/GitHub-devil54a-181717?style=flat-square&logo=github)](https://github.com/devil54a)
 [![YouTube](https://img.shields.io/badge/YouTube-kg__devil-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@kg_devil)
@@ -10,8 +10,8 @@
 
 19-year-old full-stack developer with **6+ years** of experience shipping real-world projects. I specialize in building Discord bots, web applications, and Roblox systems that scale.
 
-- 🏗️ **15K+** Discord guilds on DominoBot
-- 👥 **5M+** users reached through my projects
+- 🏗️ **15K+** Discord guilds on DominosBot
+- 👥 **5M+** users reached using DominosBot
 - 📦 **50+** projects shipped
 - 💻 Full-stack · Discord Architecture · Roblox Scripting
 
@@ -56,14 +56,14 @@
 
 ## 🏆 Featured Projects
 
-### **DominoBot** 🎯
+### **DominosBot** 🎯
 > All-in-one Discord bot — my flagship project still growing
 - **15K+** active guilds
 - **5M+** users reached
 - 30+ games, 20+ customization commands
 - Full-featured dashboard with analytics and settings
 
-### **DominoBot Dashboard** 📊
+### **DominosBot Dashboard** 📊
 > Admin panel with real-time analytics and controls
 - 3 versions released
 - Full settings management
@@ -104,7 +104,3 @@
 ## 📄 License
 
 © 2026 Youssef. All rights reserved.
-
----
-
-*Built with passion and precision.*
